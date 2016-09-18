@@ -116,7 +116,7 @@ TARGET_PROVIDES_LIBLIGHT := true
 MALLOC_IMPL := dlmalloc
 
 # Power
-TARGET_POWERHAL_VARIANT := qcom
+#TARGET_POWERHAL_VARIANT := qcom
 
 # Properties
 TARGET_SYSTEM_PROP := device/bq/msm8916-common/system.prop
