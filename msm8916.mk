@@ -52,7 +52,7 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    Snap
+    SnapdragonCamera
 
 # Connectivity
 PRODUCT_PACKAGES += \
